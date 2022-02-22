@@ -13,4 +13,7 @@ public class IMDBRating
         currentAverage = newTotal / ratingCount;
         return currentAverage;
     }
+
+
+
 }
